@@ -40,6 +40,7 @@ Clone and set the working directory:
 ```bash
 git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
+```
 
 In R:
 
@@ -48,7 +49,7 @@ Copy
 Edit
 setwd("path/to/your-repo-name")
 source("script.R")  # or the relevant entry point
-
+```
 
 ### Local Installation
 🟡
